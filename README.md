@@ -1,1 +1,1 @@
-# Simple listing of products using ReactJS using Axios
+# Simple listing of products using ReactJS and Axios
